@@ -1,0 +1,25 @@
+.edit_btn{
+    background-color: rgb(211, 252, 248);
+    margin-left: 20px;
+    padding: 5px 4px !important;
+}
+.main{
+  
+    margin: 20px auto;
+}
+
+.inp_width{
+    width: 500px;
+}
+
+.list_item{
+    
+    width: 400px;
+    margin: 2px;
+}
+.tabletext{
+    height: 40px;
+    width: 50px;
+    background-color: blueviolet;
+   
+}
