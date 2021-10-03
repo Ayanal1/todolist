@@ -118,8 +118,8 @@ function edit(e){
         firebase.database().ref('/USER/').child(e.id).set({
             todo:inp,
             key:e.id})
+            e.parentNode.parentNode.childNodes[0].childNodes[0].innerText = inp
     }
-        // e.parentNode.parentNode.childNodes[0].childNodes[0].innerText = inp
     }
    
 
