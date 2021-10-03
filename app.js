@@ -100,7 +100,7 @@ function add_todo(){
             // firebase.database().ref('/USER/').once('value',function(data){
             //     console.log(data.val())
             // })
-    
+    val.value=''
 
        
 
